@@ -1,0 +1,11 @@
+// function uppercaseCharacter(password) {
+//     let matches = password.match(/A-Z]/g) || []
+
+//     if (matches.length === 0) {
+//         return {
+//             message: 'Password must include uppercase characters',
+
+//             deduction: 20
+//         }
+//     }
+// }
